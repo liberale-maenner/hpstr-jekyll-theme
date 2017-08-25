@@ -1,5 +1,5 @@
-title:            HPSTR Theme
-description:      A responsive Jekyll theme with modern tendencies from designer Michael Rose.
+title:            Titel
+description:      Beschreibung
 disqus_shortname: hpstrtheme
 reading_time:     true
 words_per_minute: 200
@@ -7,7 +7,7 @@ url:              https://mmistakes.github.io/hpstr-jekyll-theme
 
 # Owner/author information
 owner:
-  name:           Michael Rose
+  name:           Vorname nachname
   avatar:         avatar.jpg
   bio:            "Just another boring, tattooed, time traveling designer hailing from Buffalo New York."
   email:          
